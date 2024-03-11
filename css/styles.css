@@ -1,0 +1,599 @@
+body{
+    background-color: #fff4eb ;
+}
+
+.naVegador{
+     background-color: #FFF4EB ;
+     margin: 0%;
+     padding: 0%;
+     height: 7rem;
+     border-bottom: 1px solid #CA9277; 
+    
+     
+
+     
+    
+    }
+
+    .lisTanav{
+        
+        margin-top: 5%;
+        font-size: 15px;
+        list-style: none;
+        margin: 35px;
+        
+        
+        
+        
+    }
+
+    a{
+        text-decoration: none;
+        color: #000000;
+        
+    }
+
+    
+
+    
+
+    .navbaRcenter {
+    
+        margin-left: 10rem;
+        justify-content: center;
+        display: flex;  
+    }
+
+    .loGo{
+        width: 30%;
+        height: 20%;
+    }
+   .navbar-brand{
+    width: 18%;
+    height:18%;
+   }
+
+/*-----------discos esenciales---------*/
+
+.esenCiales{
+    display: flex;
+    height: 25rem;
+    padding: 0%;
+    margin: 0%;
+    
+}
+ .imgPrincipal{
+    height: 80%;
+    width: 40%; 
+    padding: auto;
+    margin: auto;
+    margin-top: 2rem;
+    margin-right: 5rem;
+    border-radius: 3%;
+    box-shadow: 0px 0px 20px 0px rgba(2, 2, 2, 2.5);
+ }
+
+ .tituloPrincipal{
+    margin: auto;
+    padding: auto;
+    margin-top: 6%;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 9rem;
+ }
+    
+ .parraFoesc{
+    display: flex;
+    margin-top: 3rem;
+    margin-left: 9rem;
+    font-size: 19px;
+ }   
+
+ .boTonesc{
+    margin-left:18rem ;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top: 5rem;
+    color: #FFF4EB ;
+    background-color: #303030;
+    
+    
+ }
+
+
+
+/*---------seccion mas buscados------------*/
+
+.busCados{
+    background-color: #000000;
+    opacity: 80%;
+    height: 30rem;
+    margin: 0%;
+    padding: 5%;
+    
+    
+    
+}
+
+.tiTulobus{
+    color: #FFF4EB;
+    font-size: 40px;
+    margin-left: 6rem;
+    
+    
+    
+}
+
+.subTbus{
+    color: #FFF4EB;
+    font-size: 25px;
+    margin-left: 25rem;
+    
+    
+}
+.porTadas2{
+    width: 25%;
+    height: 70%;
+    border-radius: 3%;
+    margin-top: 6.5rem;
+    box-shadow: 0px 0px 20px 0px #ebe4e480;
+    margin: 5%;
+    
+    
+    
+    
+    
+}
+
+.contImg{
+   
+    display: flex;
+    justify-content: space-around;
+    margin-left: 4rem;
+    
+}
+
+
+
+/*-------seccion internacional-------------*/
+
+
+.conTinternacional{
+    background-color: #000000;
+    opacity: 85%;
+
+    display: flex;
+    height: 30rem;
+    padding: 0%;
+    margin: 0%;
+    
+}
+.porTadasinter{
+    
+    border-radius: 3%;
+    margin-top: 5rem;
+    height: 70%;
+    margin-right: 5rem;
+    box-shadow: 0px 0px 20px 0px #ebe4e480;
+    
+    
+
+}
+
+
+
+.parraFinter{
+    color: #FFF4EB;
+    display: flex;
+    padding:60px;
+    
+    margin-left: 3rem;
+    font-size: 15px;
+    justify-content: center;
+    margin-top: 4rem;
+    text-align: center;
+    width: 75%;
+    height: 20%;
+}
+.contImginter{
+    display: flex;
+    justify-content:center;
+    
+
+    
+}
+
+
+.boToninter{
+
+    
+    
+     width: 20%;
+     padding: auto;
+     background-color:#37393F ;
+     color: #fff;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+     text-decoration: none;
+     box-shadow: 0px 0px 20px 0px rgba(20, 2, 2, 2.5);
+     justify-content: center;
+     display: flex;
+     margin-right: 1rem;
+     margin: auto;
+     margin-top: 8rem;
+}
+.boToninter:hover {
+    background-color: cadetblue;
+}
+
+.interTitulo{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    background-color: #FFF4EB;
+    padding: 30px;
+    height: 10rem;
+    
+}
+
+/*-----------seccion de jazz---------------*/
+
+.jAzz{
+    background-color: #303030;
+    height: 15rem;
+    display: flex;
+
+    
+    
+    
+}
+
+.tiTulojazz{
+    
+    color: #fff4eb;
+    padding: 0%;
+    margin: 0%;
+    margin: auto;
+    margin-left: 8rem;
+    box-shadow: 0px 0px 0px 0px rgba(20, 28, 2, 2.5);
+    
+    
+    
+    
+    
+}
+
+.boTonjazz{
+
+    
+    width: 8%;
+    padding: auto;
+    background-color:#37393F ;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0px 0px 20px 0px rgba(2, 2, 2, 2.5);
+    margin-right: 6rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+    
+}
+.boTonjazz:hover {
+    background-color: cadetblue;
+}
+
+
+/*---------seccion nacional-------------*/
+
+.nacIonales{
+    background-color: #FFF4EB;
+    display: block;
+    height: 35rem;
+    
+}
+
+.porTadasnac{
+    width: 15%;
+    height: 80%;
+    border-radius: 3%;
+    margin:3%;
+    
+  box-shadow: 0px 0px 20px 0px rgba(2, 2, 2, 2.5);
+    
+      
+    
+
+}
+.parraFonac{
+    display: flex;
+    justify-content: center;
+    
+    margin: 7%;
+    font-size: 30px;
+    
+    
+}
+
+.conTimgnac{
+    justify-content: space-around;
+    margin-left: 7rem;
+    margin-top: 6rem;
+
+}
+
+.boTonacional{
+   
+    width: 15%;
+    padding: auto;
+    background-color:#37393F ;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0px 0px 20px 0px rgba(2, 2, 2, 2.5);
+    justify-content: center;
+    display: flex;
+    margin-left: 1rem;
+    margin: auto;
+    margin-top: 8rem;
+}
+
+.boTonacional:hover {
+    background-color: cadetblue;
+}
+
+
+
+/*---------seccion quienes somos--------*/
+.quiEnes{
+    background-color: #303030;
+    height: 8rem;
+}
+
+.parrafoQuien{
+    color: #FFF4EB;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    padding: 3%;
+    
+}
+
+
+
+
+/*----------seccion contacto-------*/
+.tiTulocont{
+    margin: auto;
+    padding: 10px;
+    margin-top: 6%;
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+    
+    justify-content: center;
+    display: flex;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 70px;
+    background-color:#FFF4EB;
+    border-radius: 5px;
+    
+}
+
+.form-group {
+    margin-bottom: 20px;
+    
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #000000;
+    
+    
+}
+input{
+    color:#FFF4EB;
+    background-color: #37393F;
+    box-shadow: 0px 0px 20px 0px rgba(2, 2, 2, 2.5);
+}
+input[type="text"],
+input[type="email"],
+input[type="telefono"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #37393F;
+    color: #FFF4EB;
+    box-shadow: 0px 0px 20px 0px rgba(2, 2, 2, 2.5);
+    
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color:#37393F ;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 0px 20px 0px rgba(2, 2, 2, 2.5);
+}
+
+button[type="submit"]:hover {
+    background-color: cadetblue;
+}
+
+
+
+
+
+/*------------footer--------*/
+
+footer {
+    background-color:#fff4eb ;
+    color: black;
+    padding: 20px 0;
+    border-top: 1px solid #CA9277; 
+    
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 4rem;
+}
+
+.footer-column {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.footer-column h3 {
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 9.5rem;
+}
+
+.footer-column ul li {
+    margin-bottom: 5px;
+}
+
+.footer-column ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+}
+
+.social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+
+.imgFooter{
+    width: 70%;
+}
+
+
+
+.footer-column p {
+margin-top: 2rem;
+font-size: 0.1;
+
+}
+
+
+
+/*------tarjetas---------*/
+
+.conTtarjetas{
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    margin: auto;
+    height: 25rem;
+    background-color: #FFF4EB;
+    padding: auto;
+    
+    
+    
+    
+       
+}
+
+
+
+
+
+.card-img-top{
+
+    
+    
+}
+
+.card-body {
+    flex: 1;
+    width: 157px;
+    padding: 20px;
+    margin: 0 10px; 
+    
+    
+    
+    
+    
+}
+    
+
+
+.card-title{
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+.card-text{
+    text-align: center;
+    font-size: 12px;
+    padding: 8px;
+}
+
+.boToncompra{
+    width: 70%;
+    padding: auto;
+    background-color:#37393F ;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0px 0px 20px 0px rgba(2, 2, 2, 2.5);
+    justify-content: center;
+    display: flex;
+    margin-left: 1rem;
+    margin: auto;
+    
+}
+
+.boToncompra:hover {
+    background-color: cadetblue;
+}
+
+
+/*--------carrusel--------*/
+
+.carousel-control-prev{
+    
+    margin-left: 13rem;
+    
+    
+}
+
+.carousel-control-next{
+    margin-right: 15rem;
+}
